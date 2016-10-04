@@ -1,0 +1,17 @@
+{
+  "name": "content-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "json2csv": "^3.7.0",
+    "request": "^2.75.0"
+  }
+}
