@@ -5,15 +5,11 @@ Node.js command line application that goes to an ecommerce site [http://www.shir
 
 ## How to use
 ```
-git clone https://github.com/anoopmundathan/content-scraper.git
+$ npm install content-scraper
 ```
 ```
-cd content-scraper
+cd node_modules/content-scraper
 ```
-```
-$ npm install 
-```
-`cd` into the `cliapp` directory
 ```
 $ node scraper.js
 ```
